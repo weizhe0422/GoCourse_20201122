@@ -1,9 +1,9 @@
 package PILI
 
 import (
-	Model "../Ｍodel"
 	"encoding/json"
 	"fmt"
+	Model "github.com/weizhe0422/GoCourse_20201122/Homework/hw/PILI/Ｍodel"
 	"io/ioutil"
 )
 
